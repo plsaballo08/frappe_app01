@@ -5,18 +5,18 @@
 from frappe.tests import IntegrationTestCase, UnitTestCase
 
 
-class TestMyTestDocType(UnitTestCase):
+class TestMyTestDoctype(UnitTestCase):
 	"""
-	Unit tests for MyTestDocType.
+	Unit tests for MyTestDoctype.
 	Use this class for testing individual functions and methods.
 	"""
 
 	pass
 
 
-class TestMyTestDocType(IntegrationTestCase):
+class TestMyTestDoctype(IntegrationTestCase):
 	"""
-	Integration tests for MyTestDocType.
+	Integration tests for MyTestDoctype.
 	Use this class for testing interactions between multiple components.
 	"""
 

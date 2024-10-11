@@ -1,11 +1,11 @@
 {
  "actions": [],
  "autoname": "autoincrement",
- "creation": "2024-10-11 10:35:56.184528",
+ "creation": "2024-10-11 12:02:48.310154",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "section_break_wiku",
+  "section_break_a5dd",
   "first_name",
   "last_name",
   "email",
@@ -13,7 +13,7 @@
  ],
  "fields": [
   {
-   "fieldname": "section_break_wiku",
+   "fieldname": "section_break_a5dd",
    "fieldtype": "Section Break"
   },
   {
@@ -39,10 +39,10 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-10-11 10:37:13.272340",
+ "modified": "2024-10-11 12:03:57.803109",
  "modified_by": "Administrator",
  "module": "App Test",
- "name": "My Test DocType",
+ "name": "My Test Doctype",
  "naming_rule": "Autoincrement",
  "owner": "Administrator",
  "permissions": [
